@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-
+src/Components
 # testing
 /coverage
 
@@ -24,3 +24,4 @@ yarn-error.log*
 
 /.idea
 
+/src/Components/
