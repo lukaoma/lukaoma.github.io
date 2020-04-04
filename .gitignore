@@ -1,3 +1,7 @@
 /node_modules/
 /build/
 /.idea/
+/.cache/
+/dist/
+/yarn-error.log
+/yarn.lock
