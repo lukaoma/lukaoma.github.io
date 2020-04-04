@@ -26,8 +26,8 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "start": "parcel index.html -p 80",
-    "build": "parcel build index.html -d build",
+    "start": "parcel public/index.html -p 80",
+    "build": "parcel build public/index.html -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",

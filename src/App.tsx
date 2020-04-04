@@ -1,7 +1,7 @@
 import React    from 'react';
 import Favicon  from 'react-favicon';
 import './App.css';
-import icon     from './icon.png';
+import icon     from './assets/icon.png';
 import NavBar   from './pages/NavBar';
 import ShowCase from './pages/ShowCase';
 
