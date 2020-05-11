@@ -15,7 +15,7 @@
 }
 
 .box {
-    /*height:100rem;*/
+    height: 58em;
     /*width: 105rem;*/
     /*this your primary color*/
     background: #00a8cc linear-gradient(white, transparent);
