@@ -1,6 +1,7 @@
 import React                                 from 'react';
 import ImageGallery, {ReactImageGalleryItem} from 'react-image-gallery';
 import feat                                  from '../assets/images/appSlide/Featured.png';
+import geo                                   from '../assets/images/appSlide/geoLocation.gif';
 import live                                  from '../assets/images/appSlide/livegif.gif';
 import local                                 from '../assets/images/appSlide/local.png';
 import splash                                from '../assets/images/appSlide/Splash.png';
@@ -27,6 +28,11 @@ const images: ReactImageGalleryItem[] = [
 		original: local,
 		thumbnail: local,
 	},
+	{
+		original: geo,
+		thumbnail: geo,
+	},
+
 ];
 
 const ShowCase = () => {
